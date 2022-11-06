@@ -9,7 +9,7 @@ Of course, there are some other programs that can be used for the same purpose: 
 information for the status bar. One can think of
 e.g. [slstatus](https://tools.suckless.org/slstatus/) and
 [succade](https://github.com/domsson/succade). It is also worth mentioning [pista](https://sr.ht/~xandkar/pista/)
-and [sprite](git://wowana.me/sprite.git) as inspirations for `lemon`.
+and sprite (you can find its source code in the repo git://wowana.me/sprite.git) as inspirations for `lemon`.
 
 So how is `lemon` different from these programs?
 - Unlike `slstatus`, `lemon` does not describe how to get information; its job is only to update it at the right time.
