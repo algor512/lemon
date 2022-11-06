@@ -7,9 +7,9 @@ be used for other purposes; it all depends on your imagination!
 
 Of course, there are some other programs that can be used for the same purpose: to provide
 information for the status bar. One can think of
-e.g. [https://tools.suckless.org/slstatus/](slstatus) and
-[https://github.com/domsson/succade](succade). It is also worth mentioning [https://sr.ht/~xandkar/pista/](pista)
-and [git://wowana.me/sprite.git](sprite) as inspirations for `lemon`.
+e.g. [slstatus](https://tools.suckless.org/slstatus/) and
+[succade](https://github.com/domsson/succade). It is also worth mentioning [pista](https://sr.ht/~xandkar/pista/)
+and [sprite](git://wowana.me/sprite.git) as inspirations for `lemon`.
 
 So how is `lemon` different from these programs?
 - Unlike `slstatus`, `lemon` does not describe how to get information; its job is only to update it at the right time.
